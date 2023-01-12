@@ -1,0 +1,3 @@
+﻿  multi_MPI_gusev.cpp
+C:\Users\Vasa\Downloads\MPIMatrixMultiplication-19122022\MPIMatrixMultiplication\MPIMatrixMultiplication\multi_MPI_gusev.cpp(131,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MPIMatrixMultiplication.vcxproj -> C:\Users\Vasa\Downloads\MPIMatrixMultiplication-19122022\MPIMatrixMultiplication\x64\Debug\MPIMatrixMultiplication.exe
